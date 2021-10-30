@@ -6,7 +6,7 @@
 4. 날씨 예측 모델 생성
 5. 이를 알려주는 간단한 플랫폼 구축
 
-##Git gui guide
+## Git gui guide
 1. 개인 리포지토리 생성(public필수)
 2. 로컬 리포지토리로 클론
 3. 로컬에서 변경한 파일을 [Stage Changed]버튼을 눌러 add
